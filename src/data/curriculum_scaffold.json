@@ -1,0 +1,4540 @@
+{
+  "classes": [
+    {
+      "id": "6",
+      "name": "Lớp 6",
+      "subjects": [
+        {
+          "id": "sohoc",
+          "name": "Số học",
+          "topics": [
+            {
+              "id": "t6_sohoc_1",
+              "name": "Chủ đề 1 (Số học)",
+              "lessons": [
+                {
+                  "id": "l6_sohoc_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_sohoc_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_sohoc_2",
+              "name": "Chủ đề 2 (Số học)",
+              "lessons": [
+                {
+                  "id": "l6_sohoc_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_sohoc_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_sohoc_3",
+              "name": "Chủ đề 3 (Số học)",
+              "lessons": [
+                {
+                  "id": "l6_sohoc_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_sohoc_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_sohoc_4",
+              "name": "Chủ đề 4 (Số học)",
+              "lessons": [
+                {
+                  "id": "l6_sohoc_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_sohoc_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_sohoc_5",
+              "name": "Chủ đề 5 (Số học)",
+              "lessons": [
+                {
+                  "id": "l6_sohoc_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_sohoc_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_sohoc_6",
+              "name": "Chủ đề 6 (Số học)",
+              "lessons": [
+                {
+                  "id": "l6_sohoc_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_sohoc_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "daiso",
+          "name": "Đại số",
+          "topics": [
+            {
+              "id": "t6_daiso_1",
+              "name": "Chủ đề 1 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l6_daiso_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_daiso_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_daiso_2",
+              "name": "Chủ đề 2 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l6_daiso_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_daiso_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_daiso_3",
+              "name": "Chủ đề 3 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l6_daiso_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_daiso_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_daiso_4",
+              "name": "Chủ đề 4 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l6_daiso_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_daiso_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_daiso_5",
+              "name": "Chủ đề 5 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l6_daiso_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_daiso_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_daiso_6",
+              "name": "Chủ đề 6 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l6_daiso_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_daiso_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hinhhoc",
+          "name": "Hình học",
+          "topics": [
+            {
+              "id": "t6_hinhhoc_1",
+              "name": "Chủ đề 1 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l6_hinhhoc_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_hinhhoc_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_hinhhoc_2",
+              "name": "Chủ đề 2 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l6_hinhhoc_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_hinhhoc_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_hinhhoc_3",
+              "name": "Chủ đề 3 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l6_hinhhoc_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_hinhhoc_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_hinhhoc_4",
+              "name": "Chủ đề 4 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l6_hinhhoc_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_hinhhoc_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_hinhhoc_5",
+              "name": "Chủ đề 5 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l6_hinhhoc_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_hinhhoc_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_hinhhoc_6",
+              "name": "Chủ đề 6 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l6_hinhhoc_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_hinhhoc_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "tkxs",
+          "name": "Thống kê & Xác suất",
+          "topics": [
+            {
+              "id": "t6_tkxs_1",
+              "name": "Chủ đề 1 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l6_tkxs_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_tkxs_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_tkxs_2",
+              "name": "Chủ đề 2 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l6_tkxs_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_tkxs_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_tkxs_3",
+              "name": "Chủ đề 3 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l6_tkxs_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_tkxs_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_tkxs_4",
+              "name": "Chủ đề 4 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l6_tkxs_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_tkxs_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_tkxs_5",
+              "name": "Chủ đề 5 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l6_tkxs_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_tkxs_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t6_tkxs_6",
+              "name": "Chủ đề 6 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l6_tkxs_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l6_tkxs_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Lớp 7",
+      "subjects": [
+        {
+          "id": "sohoc",
+          "name": "Số học",
+          "topics": [
+            {
+              "id": "t7_sohoc_1",
+              "name": "Chủ đề 1 (Số học)",
+              "lessons": [
+                {
+                  "id": "l7_sohoc_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_sohoc_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_sohoc_2",
+              "name": "Chủ đề 2 (Số học)",
+              "lessons": [
+                {
+                  "id": "l7_sohoc_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_sohoc_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_sohoc_3",
+              "name": "Chủ đề 3 (Số học)",
+              "lessons": [
+                {
+                  "id": "l7_sohoc_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_sohoc_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_sohoc_4",
+              "name": "Chủ đề 4 (Số học)",
+              "lessons": [
+                {
+                  "id": "l7_sohoc_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_sohoc_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_sohoc_5",
+              "name": "Chủ đề 5 (Số học)",
+              "lessons": [
+                {
+                  "id": "l7_sohoc_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_sohoc_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_sohoc_6",
+              "name": "Chủ đề 6 (Số học)",
+              "lessons": [
+                {
+                  "id": "l7_sohoc_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_sohoc_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "daiso",
+          "name": "Đại số",
+          "topics": [
+            {
+              "id": "t7_daiso_1",
+              "name": "Chủ đề 1 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l7_daiso_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_daiso_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_daiso_2",
+              "name": "Chủ đề 2 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l7_daiso_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_daiso_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_daiso_3",
+              "name": "Chủ đề 3 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l7_daiso_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_daiso_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_daiso_4",
+              "name": "Chủ đề 4 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l7_daiso_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_daiso_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_daiso_5",
+              "name": "Chủ đề 5 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l7_daiso_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_daiso_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_daiso_6",
+              "name": "Chủ đề 6 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l7_daiso_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_daiso_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hinhhoc",
+          "name": "Hình học",
+          "topics": [
+            {
+              "id": "t7_hinhhoc_1",
+              "name": "Chủ đề 1 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l7_hinhhoc_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_hinhhoc_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_hinhhoc_2",
+              "name": "Chủ đề 2 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l7_hinhhoc_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_hinhhoc_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_hinhhoc_3",
+              "name": "Chủ đề 3 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l7_hinhhoc_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_hinhhoc_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_hinhhoc_4",
+              "name": "Chủ đề 4 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l7_hinhhoc_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_hinhhoc_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_hinhhoc_5",
+              "name": "Chủ đề 5 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l7_hinhhoc_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_hinhhoc_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_hinhhoc_6",
+              "name": "Chủ đề 6 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l7_hinhhoc_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_hinhhoc_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "tkxs",
+          "name": "Thống kê & Xác suất",
+          "topics": [
+            {
+              "id": "t7_tkxs_1",
+              "name": "Chủ đề 1 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l7_tkxs_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_tkxs_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_tkxs_2",
+              "name": "Chủ đề 2 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l7_tkxs_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_tkxs_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_tkxs_3",
+              "name": "Chủ đề 3 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l7_tkxs_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_tkxs_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_tkxs_4",
+              "name": "Chủ đề 4 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l7_tkxs_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_tkxs_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_tkxs_5",
+              "name": "Chủ đề 5 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l7_tkxs_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_tkxs_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t7_tkxs_6",
+              "name": "Chủ đề 6 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l7_tkxs_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l7_tkxs_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Lớp 8",
+      "subjects": [
+        {
+          "id": "sohoc",
+          "name": "Số học",
+          "topics": [
+            {
+              "id": "t8_sohoc_1",
+              "name": "Chủ đề 1 (Số học)",
+              "lessons": [
+                {
+                  "id": "l8_sohoc_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_sohoc_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_sohoc_2",
+              "name": "Chủ đề 2 (Số học)",
+              "lessons": [
+                {
+                  "id": "l8_sohoc_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_sohoc_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_sohoc_3",
+              "name": "Chủ đề 3 (Số học)",
+              "lessons": [
+                {
+                  "id": "l8_sohoc_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_sohoc_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_sohoc_4",
+              "name": "Chủ đề 4 (Số học)",
+              "lessons": [
+                {
+                  "id": "l8_sohoc_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_sohoc_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_sohoc_5",
+              "name": "Chủ đề 5 (Số học)",
+              "lessons": [
+                {
+                  "id": "l8_sohoc_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_sohoc_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_sohoc_6",
+              "name": "Chủ đề 6 (Số học)",
+              "lessons": [
+                {
+                  "id": "l8_sohoc_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_sohoc_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "daiso",
+          "name": "Đại số",
+          "topics": [
+            {
+              "id": "t8_daiso_1",
+              "name": "Chủ đề 1 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l8_daiso_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_daiso_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_daiso_2",
+              "name": "Chủ đề 2 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l8_daiso_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_daiso_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_daiso_3",
+              "name": "Chủ đề 3 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l8_daiso_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_daiso_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_daiso_4",
+              "name": "Chủ đề 4 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l8_daiso_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_daiso_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_daiso_5",
+              "name": "Chủ đề 5 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l8_daiso_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_daiso_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_daiso_6",
+              "name": "Chủ đề 6 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l8_daiso_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_daiso_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hinhhoc",
+          "name": "Hình học",
+          "topics": [
+            {
+              "id": "t8_hinhhoc_1",
+              "name": "Chủ đề 1 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l8_hinhhoc_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_hinhhoc_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_hinhhoc_2",
+              "name": "Chủ đề 2 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l8_hinhhoc_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_hinhhoc_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_hinhhoc_3",
+              "name": "Chủ đề 3 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l8_hinhhoc_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_hinhhoc_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_hinhhoc_4",
+              "name": "Chủ đề 4 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l8_hinhhoc_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_hinhhoc_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_hinhhoc_5",
+              "name": "Chủ đề 5 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l8_hinhhoc_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_hinhhoc_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_hinhhoc_6",
+              "name": "Chủ đề 6 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l8_hinhhoc_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_hinhhoc_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "tkxs",
+          "name": "Thống kê & Xác suất",
+          "topics": [
+            {
+              "id": "t8_tkxs_1",
+              "name": "Chủ đề 1 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l8_tkxs_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_tkxs_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_tkxs_2",
+              "name": "Chủ đề 2 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l8_tkxs_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_tkxs_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_tkxs_3",
+              "name": "Chủ đề 3 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l8_tkxs_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_tkxs_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_tkxs_4",
+              "name": "Chủ đề 4 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l8_tkxs_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_tkxs_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_tkxs_5",
+              "name": "Chủ đề 5 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l8_tkxs_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_tkxs_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t8_tkxs_6",
+              "name": "Chủ đề 6 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l8_tkxs_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l8_tkxs_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Lớp 9",
+      "subjects": [
+        {
+          "id": "sohoc",
+          "name": "Số học",
+          "topics": [
+            {
+              "id": "t9_sohoc_1",
+              "name": "Chủ đề 1 (Số học)",
+              "lessons": [
+                {
+                  "id": "l9_sohoc_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_sohoc_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_sohoc_2",
+              "name": "Chủ đề 2 (Số học)",
+              "lessons": [
+                {
+                  "id": "l9_sohoc_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_sohoc_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_sohoc_3",
+              "name": "Chủ đề 3 (Số học)",
+              "lessons": [
+                {
+                  "id": "l9_sohoc_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_sohoc_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_sohoc_4",
+              "name": "Chủ đề 4 (Số học)",
+              "lessons": [
+                {
+                  "id": "l9_sohoc_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_sohoc_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_sohoc_5",
+              "name": "Chủ đề 5 (Số học)",
+              "lessons": [
+                {
+                  "id": "l9_sohoc_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_sohoc_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_sohoc_6",
+              "name": "Chủ đề 6 (Số học)",
+              "lessons": [
+                {
+                  "id": "l9_sohoc_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_sohoc_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "daiso",
+          "name": "Đại số",
+          "topics": [
+            {
+              "id": "t9_daiso_1",
+              "name": "Chủ đề 1 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l9_daiso_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_daiso_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_daiso_2",
+              "name": "Chủ đề 2 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l9_daiso_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_daiso_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_daiso_3",
+              "name": "Chủ đề 3 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l9_daiso_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_daiso_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_daiso_4",
+              "name": "Chủ đề 4 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l9_daiso_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_daiso_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_daiso_5",
+              "name": "Chủ đề 5 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l9_daiso_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_daiso_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_daiso_6",
+              "name": "Chủ đề 6 (Đại số)",
+              "lessons": [
+                {
+                  "id": "l9_daiso_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_daiso_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hinhhoc",
+          "name": "Hình học",
+          "topics": [
+            {
+              "id": "t9_hinhhoc_1",
+              "name": "Chủ đề 1 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l9_hinhhoc_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_hinhhoc_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_hinhhoc_2",
+              "name": "Chủ đề 2 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l9_hinhhoc_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_hinhhoc_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_hinhhoc_3",
+              "name": "Chủ đề 3 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l9_hinhhoc_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_hinhhoc_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_hinhhoc_4",
+              "name": "Chủ đề 4 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l9_hinhhoc_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_hinhhoc_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_hinhhoc_5",
+              "name": "Chủ đề 5 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l9_hinhhoc_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_hinhhoc_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_hinhhoc_6",
+              "name": "Chủ đề 6 (Hình học)",
+              "lessons": [
+                {
+                  "id": "l9_hinhhoc_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_hinhhoc_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "tkxs",
+          "name": "Thống kê & Xác suất",
+          "topics": [
+            {
+              "id": "t9_tkxs_1",
+              "name": "Chủ đề 1 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l9_tkxs_1_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_tkxs_1_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_tkxs_2",
+              "name": "Chủ đề 2 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l9_tkxs_2_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_tkxs_2_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_tkxs_3",
+              "name": "Chủ đề 3 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l9_tkxs_3_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_tkxs_3_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_tkxs_4",
+              "name": "Chủ đề 4 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l9_tkxs_4_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_tkxs_4_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_tkxs_5",
+              "name": "Chủ đề 5 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l9_tkxs_5_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_tkxs_5_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "t9_tkxs_6",
+              "name": "Chủ đề 6 (Thống kê & Xác suất)",
+              "lessons": [
+                {
+                  "id": "l9_tkxs_6_1",
+                  "title": "Bài 1: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                },
+                {
+                  "id": "l9_tkxs_6_2",
+                  "title": "Bài 2: Tiêu đề (placeholder)",
+                  "theory": "\\text{Nội dung lý thuyết (chưa nhập)}",
+                  "examples": [],
+                  "questions": [
+                    {
+                      "level": "easy",
+                      "type": "mcq",
+                      "question": "Ví dụ câu hỏi placeholder",
+                      "options": [
+                        "A",
+                        "B",
+                        "C"
+                      ],
+                      "answer": 0,
+                      "explain": "Giải thích ví dụ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
