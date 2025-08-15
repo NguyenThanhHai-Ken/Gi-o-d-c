@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useState } from 'react'
 import { Routes, Route, Link, useNavigate, useParams } from 'react-router-dom'
-import Header from './components/Header'\nimport TeacherPanel from './components/TeacherPanel'
+import Header from './components/Header'
+import TeacherPanel from './components/TeacherPanel'
 import Latex from './components/Latex'
 import catalogData from './data/catalog.json'
 import { save, load, pushHistory } from './utils/storage'
